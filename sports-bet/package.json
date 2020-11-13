@@ -20,7 +20,8 @@
     "@material-ui/icons": "^4.9.1",
     "@material/typography": "^8.0.0",
     "@types/react-redux": "^7.1.4",
-    "@types/redux-thunk": "^2.1.0"
+    "@types/redux-thunk": "^2.1.0",
+    "react-redux": "^7.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -45,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0"
   }
 }
