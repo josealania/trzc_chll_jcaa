@@ -1,0 +1,36 @@
+.closeIcon {
+  margin-right: spacing(0.5);
+}
+
+.headSection {
+  width: 290px;
+}
+
+.blackList {
+  background-color: black;
+  height: 100%;
+}
+
+.noDecoration {
+  text-decoration: none !important;
+}
+
+.card {
+  border-radius: 0px;
+  margin: 10px;
+  border: 1px solid gray;
+}
+
+.eventTitle {
+  text-align:center;
+  margin:20px;
+  
+}
+.listItem{
+    height: 100%;
+    justify-content: flex-end;
+}
+
+.betdiv{
+  text-align:center;
+}
